@@ -3,3 +3,6 @@ This repository holds all the external DLLs, libs, and includes required to buil
 
 ## Build Requirement
 Navigate to `bin/ffmpeg` and extract `avcodec-62.rar`. This is required as github no like 100mb :(
+
+## Main Repo
+https://github.com/DustyDevz/NodeEngine
