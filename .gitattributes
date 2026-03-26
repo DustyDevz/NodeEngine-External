@@ -1,0 +1,2 @@
+external/bin/ffmpeg/avcodec-62.dll filter=lfs diff=lfs merge=lfs -text
+bin/ffmpeg/avcodec-62.dll filter=lfs diff=lfs merge=lfs -text
